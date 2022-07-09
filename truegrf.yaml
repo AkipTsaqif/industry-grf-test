@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f151e9de
 license: CC0-1.0
+name: industry-grf-test
 type: industry
+url: https://github.com/AkipTsaqif/industry-grf-test
 version: 6
