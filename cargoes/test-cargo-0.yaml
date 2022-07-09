@@ -1,0 +1,17 @@
+abbreviation: TE
+available: true
+classes: 32
+colour: 101
+id: 0
+label: TEST
+longName: 'test cargo #0'
+name: 'Test Cargo #0'
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 82241254902
+sprite:
+  filename: cargoes/test-cargo-0.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 4
